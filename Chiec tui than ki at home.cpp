@@ -4,9 +4,8 @@
 #include<stdlib.h>
 #include<cstdio>
 using namespace std;
-class Object{
-	private: 
-		protected:
+class Object{ 
+	protected:
 		string name;
 		int weight;
 		public:
